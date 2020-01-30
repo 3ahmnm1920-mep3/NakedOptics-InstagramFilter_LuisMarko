@@ -1,13 +1,13 @@
 # NakedOptics-InstagramFilter_LuisMarko
 
-# Project Description
+## Project Description
 Creating InstgramFilters with SparkAR.
 
-# Visuals
+## Visuals
 
-# Concept
+## Concept
 
-# Idea
+## Idea
 
 Current Time, Altitude and Temperature on the bottom of the screen. (Changeable by Tapping)
 
@@ -19,7 +19,7 @@ Reflection of Mountain Panorama on the Glasses
 
 
 
-# References
+## References
 
 How to rotate an object around your head:
 https://www.youtube.com/watch?v=P6kZl8-QzUU
