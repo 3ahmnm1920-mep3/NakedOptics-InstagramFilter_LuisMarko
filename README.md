@@ -17,6 +17,9 @@ Awesome music playing in the Background
 
 Reflection of Mountain Panorama on the Glasses 
 
+Face Mask
+
+Airplane (Or any other Object) flys around the head
 
 
 ## References
