@@ -7,12 +7,15 @@ Creating InstgramFilters with SparkAR.
 
 ## Concept
 
--Date, Location, Time and Temperature shown - Changeable by touching
--Falling Snowflakes
--Reflective Glasses
--Light leaks (Orange/Red Gradient) (animated)
--Dust 
--Halo/Leafs above the head
+| Date, Location, Time and Temperature shown - Changeable by touching
+| Reflective Glasses
+| Light leaks (Orange/Red Gradient) (animated)
+| Dust 
+| Animated Motorbike 
+| BikerHelmet
+| wind (Particles)
+| Beard
+
 
 
 ## Idea
