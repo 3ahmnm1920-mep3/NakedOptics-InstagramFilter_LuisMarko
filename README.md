@@ -7,19 +7,15 @@ Creating InstgramFilters with SparkAR.
 
 ## Concept
 
+-Date, Location, Time and Temperature shown - Changeable by touching
+-Falling Snowflakes
+-Reflective Glasses
+-Light leaks (Orange/Red Gradient) (animated)
+-Dust 
+-Halo/Leafs above the head
+
+
 ## Idea
-
-Current Time, Altitude and Temperature on the bottom of the screen. (Changeable by Tapping)
-
-Snowflakes falling 
-
-Awesome music playing in the Background
-
-Reflection of Mountain Panorama on the Glasses 
-
-Face Mask
-
-Airplane (Or any other Object) flys around the head
 
 
 ## References
