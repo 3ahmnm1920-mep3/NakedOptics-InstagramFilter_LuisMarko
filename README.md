@@ -17,6 +17,7 @@ Creating InstgramFilters with SparkAR.
 
 ## Idea
 
+A awesome Filter for instgram, easy to use and with a cool look. 
 
 ## References
 
