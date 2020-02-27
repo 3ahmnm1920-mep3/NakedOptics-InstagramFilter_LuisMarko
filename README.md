@@ -7,14 +7,7 @@ Creating InstgramFilters with SparkAR.
 
 ## Concept
 
-| Date, Location, Time and Temperature shown - Changeable by touching
-| Reflective Glasses
-| Light leaks (Orange/Red Gradient) (animated)
-| Dust 
-| Animated Motorbike 
-| BikerHelmet
-| wind (Particles)
-| Beard
+Date, Location, Temperature shown at the Bottom of the screen ---- Animated ski doo (handelbars) in front of the person. To achieve a driving look, the handlebars are vibrating and accompanied by a loud engine sound --- By rotating the Environment map, the driving look is also visiible in the reflective glasses.
 
 
 
