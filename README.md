@@ -5,7 +5,8 @@ A Filter for NakedOptics (Instagram)
 
 ## Visuals
 
-![screenshot](../screen.png)
+![screen](https://user-images.githubusercontent.com/56028940/78271413-699a5200-750c-11ea-96fa-c38bf0951b32.PNG)
+
 
 ## Concept
 
