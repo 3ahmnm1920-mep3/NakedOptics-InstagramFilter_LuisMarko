@@ -1,19 +1,16 @@
 # NakedOptics-InstagramFilter_LuisMarko
 
 ## Project Description
-Creating InstgramFilters with SparkAR.
+A Filter for NakedOptics (Instagram)
 
 ## Visuals
 
+![screenshot](https://ibb.co/0njYMsX)
+
 ## Concept
 
-Date, Location, Temperature shown at the Bottom of the screen ---- Animated ski doo (handelbars) in front of the person. To achieve a driving look, the handlebars are vibrating and accompanied by a loud engine sound --- By rotating the Environment map, the driving look is also visiible in the reflective glasses.
+Date shown at the Bottom of the screen ---- Animated ski doo in front of the person. To achieve a driving look, the Snowmobile is vibrating and accompanied by a loud engine sound --- To further visualize speed, the snowflakes are flying with a high velocity away from the camera --- By Tapping the screen the Engine starts and the drive begins --- At the top of the screen is a little Introduction "Tap to Start" which gets invisible as soon the screen gets tapped.
 
-
-
-## Idea
-
-A awesome Filter for instgram, easy to use and with a cool look. 
 
 ## References
 
